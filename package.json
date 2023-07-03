@@ -6,8 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "json-server": "json-server --watch data/Todos.json -p 3001"
+    "lint": "next lint"
   },
   "dependencies": {
     "@types/node": "20.3.2",
